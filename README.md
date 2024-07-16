@@ -5,6 +5,6 @@
 ![2024-07-16 08 55 02 localhost b11a31bc5fd6](https://github.com/user-attachments/assets/059e61d4-05d4-4dd6-986a-bbc52fc9d5e3)
 
 ## Installation
-- Clone this repository in your `$GITEA_CUSTOM/public/` folder.
+- Clone this repository in your `$GITEA_CUSTOM/public/assets/` folder.
 - Enable `github` theme in your `app.ini`.
 - :tada:
